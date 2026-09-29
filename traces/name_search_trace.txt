@@ -1,0 +1,21 @@
+Student Name: Pacifique Kabanda
+Name list: ["Ama", "Kofi", "Yaw"]
+
+Trace 1 - target "Kofi":
+1. The list is not empty, so set found to FALSE.
+2. Compare "Ama" with "Kofi": they do not match, so continue.
+3. Compare "Kofi" with "Kofi": they match, so set found to TRUE and stop searching.
+4. Since found is TRUE, return "Found".
+Result: Found
+
+Trace 2 - target "Efua":
+1. The list is not empty, so set found to FALSE.
+2. Compare "Ama" with "Efua": they do not match, so continue.
+3. Compare "Kofi" with "Efua": they do not match, so continue.
+4. Compare "Yaw" with "Efua": they do not match, so continue.
+5. All names have been checked and found is still FALSE, so return "Not found".
+Result: Not found
+
+Empty list input: []
+Empty list result:
+Error: list is empty
