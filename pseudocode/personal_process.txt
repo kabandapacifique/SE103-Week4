@@ -1,0 +1,35 @@
+Student Name: Pacifique Kabanda
+
+Problem:
+I need to prepare my computer and study materials before starting a software development study session.
+The process helps me make sure everything I need is ready before I begin learning.
+
+Input:
+A computer, a working internet connection, the required study materials, and enough time for the study session.
+
+Output:
+A ready workspace where I can start my software development study session without unnecessary interruptions.
+
+Edge Case Handled:
+If the internet connection is not working, I will use available offline materials or fix the connection before starting any tasks that require the internet.
+
+Pseudocode:
+START
+1. Choose the software development topic I will study.
+2. Check that my computer has enough battery or is connected to power.
+3. Open the study materials for the chosen topic.
+4. Check the internet connection.
+5. IF the internet connection is working THEN
+      Open the websites or online resources needed for the study session.
+   ELSE
+      Use available offline materials or fix the internet connection.
+6. Close unnecessary applications and notifications.
+7. Open the coding tools needed for the study session.
+8. Begin studying the chosen topic.
+END
+
+Why this is clear enough to follow:
+The steps are arranged in the order I normally need to complete them.
+The input section identifies what must be ready before starting the process.
+The IF/ELSE decision explains what to do when the internet is unavailable.
+Each step describes one specific action, so another person could follow the process without guessing.
