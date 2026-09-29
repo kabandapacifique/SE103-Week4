@@ -1,0 +1,21 @@
+Student Name: Pacifique Kabanda
+GitHub Username: kabandapacifique
+Repository: SE103-Week4
+Repository URL: https://github.com/kabandapacifique/SE103-Week4
+
+What I understand better about algorithms now:
+I understand that an algorithm needs clear and ordered steps to solve a problem.
+I learned how to use decisions such as IF/ELSE to handle different situations.
+I also understand how loops can be used to process each item in a list.
+Writing pseudocode before coding helps me organize the solution and identify missing steps.
+
+How tracing changed my confidence:
+Tracing helped me understand how an algorithm behaves with actual input values.
+It allowed me to check each step and see how the output was produced.
+After tracing my algorithms, I feel more confident that I can identify and correct mistakes before writing code.
+
+One pseudocode habit I will keep:
+I will make each pseudocode step specific and easy to follow.
+I will clearly define the inputs, outputs, decisions, and edge cases before coding.
+
+All required files are on main: Yes
