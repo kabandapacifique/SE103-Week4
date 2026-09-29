@@ -1,0 +1,24 @@
+Student Name: Pacifique Kabanda
+
+Problem:
+Count how many numbers in a list are greater than 10.
+
+Input:
+a list of numbers
+
+Output:
+the count, or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list is empty THEN
+      Return "Error: list is empty"
+   ELSE
+      Set count to 0.
+2. FOR each number in the list DO
+      IF the number is greater than 10 THEN
+         Increase count by 1.
+      END IF
+   END FOR
+3. Return count.
+END

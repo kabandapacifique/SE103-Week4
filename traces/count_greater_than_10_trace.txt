@@ -1,0 +1,16 @@
+Student Name: Pacifique Kabanda
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. The list is not empty, so set count to 0.
+2. Check 4: it is not greater than 10, so count remains 0.
+3. Check 15: it is greater than 10, so increase count to 1.
+4. Check 10: it is not greater than 10, so count remains 1.
+5. Check 22: it is greater than 10, so increase count to 2.
+6. Check 8: it is not greater than 10, so count remains 2.
+7. All numbers have been checked, so the final count is 2.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty
