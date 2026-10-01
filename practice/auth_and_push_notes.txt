@@ -1,0 +1,16 @@
+Student Name: Pacifique Kabanda
+GitHub Username: kabandapacifique
+
+Authentication method I used: SSH
+
+Why I chose this method:
+I chose SSH because it allows me to securely connect my local computer to GitHub. After setting it up, I can push and pull without entering my GitHub password each time.
+
+One security habit I must follow with this method:
+I must keep my private SSH key secure and never share it with other people. I should also avoid uploading private key files to GitHub.
+
+Difference between a commit and a push:
+A commit records changes in my local Git repository. It creates a saved version of the work with a commit message. A push sends my local commits to the remote GitHub repository. Therefore, committing and pushing are two different steps.
+
+My repository URL:
+https://github.com/kabandapacifique/SE103-Week4
